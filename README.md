@@ -1,1 +1,2 @@
-# BUSS-ver-1.0
+# BUSS-ver-1
+git pull --rebase origin master
